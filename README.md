@@ -33,4 +33,4 @@ The objective of this project is to present my career profile in a **visually ap
 - Clean and consistent color palette
 
 ## 🚀 Live Demo / Video
-    https://www.linkedin.com/posts/akhil-kumar-8bb61a219_responsivedesign-internship-oibsip-activity-7361318597673062400-WLnF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcWMY8BQiWSOXEfH7QZvkjrVlMHZkSn0gI
+    link: https://www.linkedin.com/posts/akhil-kumar-8bb61a219_responsivedesign-internship-oibsip-activity-7361318597673062400-WLnF?utm_source=share&utm_medium=member_desktop&rcm=ACoAADcWMY8BQiWSOXEfH7QZvkjrVlMHZkSn0gI
